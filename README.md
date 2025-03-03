@@ -34,7 +34,6 @@ A full-stack **real-time messaging application** built with **React.js, Tailwind
 ✅ **Responsive UI** — Built with **TailwindCSS + DaisyUI** for a sleek design.  
 ✅ **RESTful API** — Well-structured **Express.js** backend with clean API endpoints.  
 ✅ **Error Handling & Security** — Secure password hashing, CORS setup, and validation.  
-✅ **Deployment Ready** — Deployed using (Add hosting service like Render/Vercel/Heroku).  
 
 ---
 
